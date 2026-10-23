@@ -227,23 +227,23 @@ These were all found in research but **left out of the core path**. Use one only
 
 ### Use only if a specific situation arises
 
-[^1]: **Turing Complete** (Steam, paid). It goes from NAND gates all the way to designing your own assembly language. *Use if:* NandGame felt too shallow and you want deeper intuition for instruction-set design, and you're happy to spend money and 20+ hours.
+[1]: **Turing Complete** (Steam, paid). It goes from NAND gates all the way to designing your own assembly language. *Use if:* NandGame felt too shallow and you want deeper intuition for instruction-set design, and you're happy to spend money and 20+ hours.
 
-[^2]: **Sebastian Lague, "Exploring How Computers Work" (YouTube) + Digital Logic Sim.** Beautiful visual explanations. *Use if:* sequential logic (latches, memory) still feels abstract after NandGame.
+[2]: **Sebastian Lague, "Exploring How Computers Work" (YouTube) + Digital Logic Sim.** Beautiful visual explanations. *Use if:* sequential logic (latches, memory) still feels abstract after NandGame.
 
-[^3]: **Ben Eater's protocol videos** (YouTube: serial, SPI, I2C, USB). *Use if:* you're stuck understanding a protocol's waveform. Watch **only** the video for that protocol. Skip his full 8-bit breadboard CPU series, which needs physical parts and many weeks.
+[3]: **Ben Eater's protocol videos** (YouTube: serial, SPI, I2C, USB). *Use if:* you're stuck understanding a protocol's waveform. Watch **only** the video for that protocol. Skip his full 8-bit breadboard CPU series, which needs physical parts and many weeks.
 
-[^4]: **Nandland.com and the book *Getting Started with FPGAs* (Russell Merrick).** *Use if:* you buy an FPGA board for real-hardware testing (Phase 9). It's also a gentler Verilog explanation if ZipCPU feels too dense.
+[4]: **Nandland.com and the book *Getting Started with FPGAs* (Russell Merrick).** *Use if:* you buy an FPGA board for real-hardware testing (Phase 9). It's also a gentler Verilog explanation if ZipCPU feels too dense.
 
-[^5]: **Project F** (projectf.io). Clean open-source Verilog, plus a RISC-V assembler series. *Use if:* you have an FPGA board, or want to see well-written Verilog modules for reference.
+[5]: **Project F** (projectf.io). Clean open-source Verilog, plus a RISC-V assembler series. *Use if:* you have an FPGA board, or want to see well-written Verilog modules for reference.
 
-[^6]: **Zero to ASIC Course** (Matt Venn, paid). The structured, paid version of the Tiny Tapeout material. *Use if:* you get stuck on the ASIC flow and the free Tiny Tapeout docs and Discord aren't enough.
+[6]: **Zero to ASIC Course** (Matt Venn, paid). The structured, paid version of the Tiny Tapeout material. *Use if:* you get stuck on the ASIC flow and the free Tiny Tapeout docs and Discord aren't enough.
 
-[^7]: **Tiny Tapeout online workshop** (paid). Two guided sessions that submit a design. *Use if:* you'd learn the flow faster with live guidance. Otherwise the free docs cover the same steps.
+[7]: **Tiny Tapeout online workshop** (paid). Two guided sessions that submit a design. *Use if:* you'd learn the flow faster with live guidance. Otherwise the free docs cover the same steps.
 
-[^8]: **Adafruit, "Intro to RP2040 PIO with CircuitPython."** *Use if:* you buy a Raspberry Pi Pico (cheap in India) to run real PIO programs and see the waveforms you'll be emulating.
+[8]: **Adafruit, "Intro to RP2040 PIO with CircuitPython."** *Use if:* you buy a Raspberry Pi Pico (cheap in India) to run real PIO programs and see the waveforms you'll be emulating.
 
-[^9]: **Circuit Cellar, "RP2040 Programmable IO."** A more technical PIO write-up with real project examples. *Use if:* you want a second explanation of PIO after the datasheet.
+[9]: **Circuit Cellar, "RP2040 Programmable IO."** A more technical PIO write-up with real project examples. *Use if:* you want a second explanation of PIO after the datasheet.
 
 [^10]: **TI PRU reference guide (AM335x).** *Use if:* you're considering a more CPU-like (PRU-style) design and want to see how a full real-time core handles deterministic I/O. Skim only.
 
